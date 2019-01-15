@@ -1,0 +1,7 @@
+{"durationMs":6,"level":"info","message":"GET /","timestamp":"2017-04-01T15:22:51.061Z"}
+{"durationMs":1,"level":"info","message":"GET /favicon.ico","timestamp":"2017-04-01T15:22:51.190Z"}
+{"durationMs":5,"level":"info","message":"GET /","timestamp":"2017-04-01T15:23:25.596Z"}
+{"durationMs":1,"level":"info","message":"GET /favicon.ico","timestamp":"2017-04-01T15:23:25.645Z"}
+{"durationMs":1,"level":"info","message":"GET /hello","timestamp":"2017-04-01T15:23:39.216Z"}
+{"durationMs":4,"level":"info","message":"GET /hello 200","timestamp":"2017-04-01T15:24:26.221Z"}
+{"durationMs":2,"level":"info","message":"GET / 200","timestamp":"2017-04-01T15:24:41.119Z"}
